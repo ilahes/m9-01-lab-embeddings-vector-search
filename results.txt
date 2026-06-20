@@ -1,0 +1,83 @@
+Loaded 10 passages.
+Created 10 passage embeddings.
+Embedding dimension: 3072
+
+================================================================================
+QUERY: my laptop won't switch on
+================================================================================
+
+1. kb-02 (handbook.md)
+Score: 0.6963
+Text: To power up a device that won't turn on, hold the power button for ten seconds, then connect the charger and wait two minutes before trying again.
+
+2. kb-07 (it.md)
+Score: 0.6201
+Text: Reset your password from the login screen by clicking 'Forgot password'. A reset link is emailed to your registered address and expires after one hour for security.
+
+3. kb-09 (it.md)
+Score: 0.6088
+Text: Company laptops back up automatically to the cloud every night at 2am while connected to the office network. Files in the Desktop and Documents folders are included; external drives are not.
+
+================================================================================
+QUERY: how do I stop being billed every month?
+================================================================================
+
+1. kb-05 (policy.md)
+Score: 0.7117
+Text: To cancel your subscription, open Account Settings and choose End Plan. Cancellation takes effect at the end of the current billing period; no partial refunds are given for the remaining days.
+
+2. kb-04 (policy.md)
+Score: 0.6243
+Text: Our refund policy allows a full refund within 30 days of purchase, provided the item is unused and in its original packaging. After 30 days, only store credit is offered.
+
+3. kb-06 (policy.md)
+Score: 0.5965
+Text: Premium plan members get priority support, with a guaranteed first response within four business hours. Standard members receive a response within two business days.
+
+================================================================================
+QUERY: access denied error when saving a file
+================================================================================
+
+1. kb-08 (it.md)
+Score: 0.7502
+Text: The error code 0x80070005 means 'access denied'. Run the application as administrator, or ask IT to grant your account write permission to the target folder.
+
+2. kb-09 (it.md)
+Score: 0.5908
+Text: Company laptops back up automatically to the cloud every night at 2am while connected to the office network. Files in the Desktop and Documents folders are included; external drives are not.
+
+3. kb-04 (policy.md)
+Score: 0.5780
+Text: Our refund policy allows a full refund within 30 days of purchase, provided the item is unused and in its original packaging. After 30 days, only store credit is offered.
+
+================================================================================
+QUERY: where do I leave my car in the evening?
+================================================================================
+
+1. kb-01 (handbook.md)
+Score: 0.7205
+Text: Employees may park in lot B after 6pm on weekdays. Lot A is reserved for visitors during business hours and requires a pass from reception.
+
+2. kb-09 (it.md)
+Score: 0.6168
+Text: Company laptops back up automatically to the cloud every night at 2am while connected to the office network. Files in the Desktop and Documents folders are included; external drives are not.
+
+3. kb-07 (it.md)
+Score: 0.5839
+Text: Reset your password from the login screen by clicking 'Forgot password'. A reset link is emailed to your registered address and expires after one hour for security.
+
+================================================================================
+QUERY: what's the wifi password?
+================================================================================
+
+1. kb-07 (it.md)
+Score: 0.6560
+Text: Reset your password from the login screen by clicking 'Forgot password'. A reset link is emailed to your registered address and expires after one hour for security.
+
+2. kb-01 (handbook.md)
+Score: 0.6117
+Text: Employees may park in lot B after 6pm on weekdays. Lot A is reserved for visitors during business hours and requires a pass from reception.
+
+3. kb-06 (policy.md)
+Score: 0.6037
+Text: Premium plan members get priority support, with a guaranteed first response within four business hours. Standard members receive a response within two business days.
